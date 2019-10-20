@@ -1,3 +1,3 @@
 # background-generator
 
-From the web developer's course 
+Generates 2 shades of background color along with the RGB values
