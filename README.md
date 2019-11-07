@@ -1,3 +1,4 @@
 # background-generator
 
-Generates 2 shades of background color along with the RGB values
+This application generates customized color palette background and provides the rgba value
+for the reusability of that color code
